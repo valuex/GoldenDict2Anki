@@ -62,7 +62,6 @@ if __name__ == '__main__':
 #    print(iniFile)
     config.read(iniFile, encoding='utf-8')
     mdict=config['Default']['mdxfile']
-#    mdict=r"C:\Users\wei_x\Desktop\Anywhere2Anki\mdx-server-master\mdx\2Dic.mdx"
     builder = IndexBuilder(mdict)
 #    Word="abandon"
     Word=sys.argv[1]
