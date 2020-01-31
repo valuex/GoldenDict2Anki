@@ -1,5 +1,5 @@
 # GoldenDict2Anki
-[中文说明](https://zhuanlan.zhihu.com/p/104513438)
+[中文说明](https://zhuanlan.zhihu.com/p/104513438)  
 Automatically save the word that you looked up in GoldenDict to Anki 
 
 When you look up a word in GoldenDict's main window or by a small pop-up window, the word along with its explaination will be saved into Anki simutaneouly.
