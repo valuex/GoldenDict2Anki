@@ -19,7 +19,7 @@ When you look up a word in GoldenDict's main window or by a small pop-up window,
 ## setting in GD2Anki    
 1. **content saved to Anki**
     - Front side: the **word** you looked up
-    - Back side: the **explanation** you get from the dictionary which is set in **Config.ini**
+    - Back side: the **explanation** you get from the local dictionary (*.mdx) which is set in **Config.ini**
     
     
 # Based on:
