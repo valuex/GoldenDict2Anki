@@ -26,6 +26,7 @@ When you look up a word in GoldenDict's main window or by a small pop-up window,
     - Front side: the **word** you looked up
     - Back side: the **explanation** you get from a local dictionary (*.mdx) which is set in **Config.ini**
     -  **Note** : in **Config.ini**, there is no need for double-quotion mark for mdxfile path.  Just like this
+
     [Default]  
     mdxfile=YourPath2Dict.mdx  
     
