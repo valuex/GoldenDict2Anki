@@ -12,6 +12,10 @@ When you look up a word in GoldenDict's main window or by a small pop-up window,
 ## setting in Anki
 1. Open Anki and install the addon called AnkiConnect to Anki. And ** keep Anki open ** when you want to use this function
 2. Add a deck named **NewWords**
+3. MoldeName and fields name should be set as:
+- deckName -- NewWords
+- modelName--NewWordsType
+- fields -- Front/Back
 ## setting in GoldenDict
 1. Open GoldenDict, Click [Edit]--[Dictionaries] --[Source]--[Programs]--[Add], set as following and click [apply]: 
     - Type: HTML
