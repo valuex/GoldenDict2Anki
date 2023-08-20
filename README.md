@@ -22,8 +22,8 @@ When you look up a word in GoldenDict's main window or by a small pop-up window,
     - Click [Edit]--[Dictionaries] --[Dictionaries], select and drag  **Ak** dictionary to the last and click [OK]
 ## setting in **Config.ini**   
 1. **Make sure you get a deck like below image shows**
-   - **DeckName**: the **word** you looked up
-   - **ModelName**: the **word** you looked up
+   - **DeckName**: the deck you'll save the word into
+   - **ModelName**: the model name of the deck
     - **CardFrontName**: the **word** you looked up
     - **CardBackName**: the **explanation** you get from a local dictionary (*.mdx) which is set in **Config.ini**
     -  **Note** : in **Config.ini**, there is no need for double-quotion mark for mdxfile path.  Just like this
