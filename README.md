@@ -15,6 +15,7 @@ When you look up a word in GoldenDict's main window or by a small pop-up window,
     - Type: HTML
     - Name: set as your wish, Let's call it **Ak** here
     - Command Line: "**YourLocalPah**\GD2Anki.exe" %GDWORD%
+    - please be noted that path_to_GD2Anki.exe is double quoted and there is a `space` before %GDWORD%
     - Icon: Any local icon file
     
 2. it is suggested to move the  **Ak** dictionary to the last postion, because the saving-to-Anki process takes 3 seconds, not fast enough.
